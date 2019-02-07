@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CS478Proj1</string>
+    <string name="title_activity_address_enter">AddressEnter</string>
+</resources>
